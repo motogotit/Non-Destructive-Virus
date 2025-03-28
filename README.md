@@ -1,4 +1,4 @@
-# Non-Destructive-Virus
+# Non Destructive 'Virus'
 
 Python code that runs calc app loads of times.
 
