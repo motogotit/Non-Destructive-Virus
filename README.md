@@ -1,2 +1,5 @@
 # Non-Destructive-Virus
-Python code that runs calc app loads of times. (WINDOWS ONLY, MUST HAVE PYTHON INSTALLED [will leave a link in readme])
+Python code that runs calc app loads of times.
+Won't damage PC
+[DOESN'T WORK IF YOU HAVE OVER 128GB MEM]
+https://www.python.org/downloads/release/python-3132/
